@@ -51,5 +51,13 @@ You can preview a formatted version of this README.md document by clicking the '
 ## Submission
 
 1. Navigate to your GitHub website (where the web page shows) and copy the link to the main page where you have added your changes. 
-3. Go to the Canvas submission page for "Project implementation #1" and paste this URL link into the submission field.
+3. Go to the Canvas submission page for "Project implementation #1" and paste this URL link into the 'website url' submission field. In the 'Text Entry' field add your self-assessment comments.
+
+**IMPORTANT NOTE:**
+
+We will be using GitHub to post our work from here on out. In addition to saving our project work and hosting a website for our projects, GitHub also has a robust set of features for commenting and collaborating on code. We will use these features to receive and ask for feedback on our code and ideas.
+
+
+
+
 
